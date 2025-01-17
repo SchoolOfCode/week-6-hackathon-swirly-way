@@ -1,3 +1,13 @@
+export function sellWeapons(warehouse) {
+  let weaponTotal = 0;
+  for (let item in warehouse) {
+    if (warehouse[item].type === "W" && warehouse[item].amount > 0) {
+      weaponTotal += warehouse[item].amount * warehouse[item].price;
+    }
+  }
+  return weaponTotal;
+}
+
 /**
  * Hello farmer! For some reasons the ducks were gearing up for war and piling up weapons among the farm supplies.
  * To avoid that you are going to separate the farm items from the weapons and sell them
