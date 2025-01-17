@@ -6,7 +6,7 @@
 - By chance pulled a rubberduck and we agreed that a theme around ducks and farms could meet our factors list
 - We then agreed on some timeframes and worked along on a call.
 
-  **Implementation**
+**Implementation**
 
 - First I had to find a Javascript concept that we learnt about and some other bootcamper could solve.
 - Then I wanted to make it a challenge and add a fun twist to it so instead of just organizing a barn/warehouse I shuffled in some weapons hidden in the warehouse object.
@@ -15,7 +15,7 @@
 - Once failed I worked on the solution for a while.
 - When the function solution was ready I worked for different test cases.
 
-  **Kata description:**
+**Kata description:**
 
 /\*\*
 
@@ -55,6 +55,6 @@
 - Keeping it simple so that I could solve it and other bootcampers wouldn't struggle, I had to rewrite the passed object to avoid cluttering with unnecesary values.
 - Some GitHub issues when trying to merge and pull, which was good learning.
 
-⏭️ **Next:**
+**Next:**
 
 - Would like to bring up the difficulty by adding different kinds of items as well I thought about ducks, so the function could return the price and the amount of ducks hidden.
