@@ -1,6 +1,6 @@
 # Duck Takeover - The Warehouse
 
-You join a strange farmer, expecting peaceful days surrounded by nature. Instead, you find the ducks in a frenzy, piling up weapons in the barn. It seems the farmer had trained them or they running behind his back. Now, you must separate the farm tools from the weapons before the ducks declare war on the cows!
+You join a strange farmer, expecting peaceful days surrounded by nature. Instead, you find the ducks in a frenzy, piling up weapons in the barns. It seems the farmer had trained them or they running behind his back. Now, you must separate the farm tools from the weapons before the ducks declare war on the cows!
 
 ## OBJECTIVES 
 
