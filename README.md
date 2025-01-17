@@ -1,6 +1,6 @@
 # Duck Takeover - The Warehouse
 
-You inherit your uncle’s farm, expecting peaceful days surrounded by nature. Instead, you find the ducks in a frenzy, piling up weapons in the barn. It seems your uncle had trained them for some strange battle. Now, you must separate the farm tools from the weapons before the ducks declare war on the cows!
+You join a strange farmer, expecting peaceful days surrounded by nature. Instead, you find the ducks in a frenzy, piling up weapons in the barns. It seems the farmer had trained them or they running behind his back. Now, you must separate the farm tools from the weapons before the ducks declare war on the cows!
 
 ## OBJECTIVES 
 
@@ -29,7 +29,9 @@ You inherit your uncle’s farm, expecting peaceful days surrounded by nature. I
 
 #### FINAL RESULT 
 
-The function should be able to return a number and pass the tests
+🦆 Once you are ready to test your function just type in the terminal: 
+
+```npm run test```
 
 ##### DEV'S STORY
 
