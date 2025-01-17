@@ -29,7 +29,9 @@ You join a strange farmer, expecting peaceful days surrounded by nature. Instead
 
 #### FINAL RESULT 
 
-The function should be able to return a number and pass the tests
+🦆 Once you are ready to test your function just type in the terminal: 
+
+```npm run test```
 
 ##### DEV'S STORY
 
